@@ -12,3 +12,7 @@ Strong focus on safety, equipment monitoring, and shift coordination.
 
 ## Career Focus
 Seeking Field Operator / Plant Operator roles in fertilizer, petrochemical, power, and oil & gas facilities.
+## Repository Structure
+- safety: Safety awareness and procedures
+- equipment: Field equipment operational notes
+- shift-handover: Shift communication templates
