@@ -36,4 +36,4 @@ LOTO prevents accidental energization of equipment.
 ### Key Awareness
 - Never remove another person’s lock
 - Always follow plant isolation procedures
-- Coordinate with control room before and after isolation
+- Coordinate with control room before and after isolation 
