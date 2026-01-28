@@ -1,7 +1,7 @@
 # Amir Gambo Ibrahim – Career Portfolio
 
 ## About Me
-Field Operator with experience in Urea, Utilities, and industrial plant operations.
+Field Operator with experience in Ammonia, Urea, Utilities, and industrial plant operations.
 Strong focus on safety, equipment monitoring, and shift coordination.
 
 ## Core Skills
